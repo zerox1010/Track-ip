@@ -11,6 +11,8 @@ git clone https://github.com/Rycoder1/Track-ip.git
 
 cd Track-ip
 
+bash Track-ip
+
 # Run 
 
   bash Track-ip
