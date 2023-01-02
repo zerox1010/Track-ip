@@ -18,9 +18,9 @@ printf "\e[1;33m     | | | | (_| | (__|   <  \e[0m\e[1;32m  _| |_| |_) |\e[0m\n"
 
 printf "\e[1;33m     |_|_|  \__,_|\___|_|\_\ \e[0m\e[1;32m |_____| .__/ \e[0m\n"
 
-printf "\e[1;32m     RYCODER     (CYBER-D TEAM.            | |    \e[0m\n"
+printf "\e[1;32m     RYCODER     (CYBER-D TEAM)     | |    \e[0m\n"
 
-printf "\e[1;32m    made by tool vivek yadav.              |_|    \e[0m\n"
+printf "\e[1;32m    made by tool vivek yadav.         |_|    \e[0m\n"
 
 printf "\e[0m\n" CYBER-D TEAM 
 
