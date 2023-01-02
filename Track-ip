@@ -18,14 +18,15 @@ printf "\e[1;33m     | | | | (_| | (__|   <  \e[0m\e[1;32m  _| |_| |_) |\e[0m\n"
 
 printf "\e[1;33m     |_|_|  \__,_|\___|_|\_\ \e[0m\e[1;32m |_____| .__/ \e[0m\n"
 
-printf "\e[1;32m              RYCODER             | |    \e[0m\n"
+printf "\e[1;32m     RYCODER             | |    \e[0m\n"
 
-printf "\e[1;32m           CYBER-DTEAM            |_|    \e[0m\n"
+printf "\e[1;32m    made by tool vivek yadav     |_|    \e[0m\n"
 
-printf "\e[0m\n"
+printf "\e[0m\n" CYBER-D TEAM 
 
 printf "\e[0m\e[1;33m    Created By Rycoder_1  \e[0m\e[1;31m(\e[0m\e[1;33m Rycoder \e[0m\e[1;31m)\e[0m\n"
 
+printf "\e[0m\e[1;33m     Instagram: Rycoder_1   (youtube: @Rycoder_1 
 }
 
 menu() {
